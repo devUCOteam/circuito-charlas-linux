@@ -9,5 +9,7 @@
 * Gestor de paquetes APT
      - [Pablo Rodriguez](https://github.com/Pablorg99)
 
-* Estructura de directorios y ficheros
+* Estructura de directorios y ficheros 
+
+* Usuarios y permisos en GNU/Linux
     - [Héctor Romero](https://github.com/cyberh99)
